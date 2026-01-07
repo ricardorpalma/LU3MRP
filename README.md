@@ -39,11 +39,18 @@ Cualquier ayuda que puedas aportar será más que bienvenida.
 
 Puedes dejar tus comentarios o preguntas en la página de QRZ para que nos comuniquemos contiga. Si sabes usar Github puedes proponer modificaciones o adendas a los archivos del sitio.
 
+
+* LU3MRP - Ricardo Palma
+* LU2MET - ¿Me ayudas?
+* LU4MJG - ¿Me Ayudas?
+
+* 
+
 ![73](https://github.com/user-attachments/assets/55bd0837-8553-4bcf-884b-752dee1a8acc)
 
 ## Indice de archivos
 
-* <2026072315.md> Recordatorio de la DExpedición 2025 a la isla Bouvet por EA1VG (Chavi)
+*[2026072315]<https://github.com/ricardorpalma/LU3MRP/blob/main/2026072315.md> Recordatorio de la DExpedición 2025 a la isla Bouvet por EA1VG (Chavi)
 
 * 
 
