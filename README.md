@@ -1,6 +1,10 @@
 # LU3MRP
 **Expedición DX 2026 Isla Bouvet 🇳🇴**
 
+Faltas 25 días para el inicio de la misión
+
+
+
 ##  🎯 Objetivo
 
 La misión de este sitio es mantener informados a los radioaficionados hispanoparlantes sobre las últimas novedades de las Expedición DX a la Isla Bouvet.
@@ -42,9 +46,10 @@ Puedes dejar tus comentarios o preguntas en la página de QRZ para que nos comun
 
 * LU3MRP - Ricardo Palma
 * LU2MET - ¿Me ayudas?
-* LU4MJG - ¿Me Ayudas?
+* LU4MJG - ¿Me ayudas?
+* LU7MTK - ¿Me ayudas?
 
-* 
+* Tu Licenca - ¿Me ayudas?
 
 ![73](https://github.com/user-attachments/assets/55bd0837-8553-4bcf-884b-752dee1a8acc)
 
