@@ -8,7 +8,7 @@ Italy qrz.com
 
 QSL: LOTW OR DIRECT
 
-Según lo que pude escuchar el 26 de Enero las transmisiones senharan en modo Split. Es decir nunca frecuencia para interrogar y otra para recibir.
+Según lo que pude escuchar el 26 de Enero las transmisiones se haran en modo Split. Es decir una frecuencia para interrogar y otra para recibir.
 
 El primer día después del desembarco y armado del campamento Don (Donato) tendrá su vfo escuchado en 7.130 MHz y nos responderá en 7.135 con el segundo vfo.
 
